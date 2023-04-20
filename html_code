@@ -26,3 +26,7 @@ Test
 
 </body>
 </html>
+
+<script>
+alert("You have accessed this page at: " + Date());
+</script>
