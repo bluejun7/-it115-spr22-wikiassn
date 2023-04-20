@@ -1,17 +1,25 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 <title>My First Web Page</title>
+< main
+
 <style>
 body {
-  background-color: aqua;
+  background-color: lightgreen;
+}
+
+h1 {
+  color: blue;
+  margin-left: 40px;
 }
 </style>
-</head>
-<body>
 
-<h1>Welcome to my Web Page</h1>
-<p>My name is (Nolan).</p>
+
+<body>
+Test
+
 
 </body>
 </html>
