@@ -2,11 +2,16 @@
 <html>
 <head>
 <title>My First Web Page</title>
+<style>
+body {
+  background-color: aqua;
+}
+</style>
 </head>
 <body>
 
 <h1>Welcome to my Web Page</h1>
-<p>My name is (put your name here).</p>
+<p>My name is (Nolan).</p>
 
 </body>
 </html>
