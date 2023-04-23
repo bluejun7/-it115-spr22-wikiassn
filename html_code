@@ -1,12 +1,8 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 
 <head>
-
-
 <title>My First Web Page</title>
-< main
- main>
 
 <style>
 body {
@@ -19,14 +15,13 @@ h1 {
 }
 </style>
 
+</head>
 
 <body>
-Test
 
+<h1>Welcome to my Web Page</h1>
+<p>My name is Bob.</p>
+<a href="secondpage.html">My Second Web Page</a>
 
 </body>
 </html>
-
-<script>
-alert("You have accessed this page at: " + Date());
-</script>
